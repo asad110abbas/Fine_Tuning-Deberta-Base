@@ -1,2 +1,2 @@
 # Fine_Tuning-Deberta-Base
-Training a Finetuned model deberta base for reviews Classification
+Training a PreTrained model deberta_base for reviews Classification
