@@ -1,2 +1,3 @@
 # Fine_Tuning-Deberta-Base
-Training a PreTrained model deberta_base for reviews Classification
+Before dive into the finetuning process You need a classification of an specific data if your data is already classified(labelled) then go for finetuning process... for classification use the reviews classification code...
+
